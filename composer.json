@@ -1,0 +1,17 @@
+{
+    "name": "whodunit/mywp-login-form",
+    "autoload": {
+        "psr-4": {
+			"Whodunit\\MywpLoginForm\\Init\\": "core/",
+            "Whodunit\\MywpLoginForm\\Admin\\": "core/admin/",
+            "Whodunit\\MywpLoginForm\\Utility\\": "core/utility/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gturpin-dev",
+            "email": "guillaume.turpin45@gmail.com"
+        }
+    ],
+    "require": {}
+}

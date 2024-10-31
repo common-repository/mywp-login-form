@@ -1,0 +1,70 @@
+{
+  "url_redirect": {
+    "type": "string",
+    "default": ""
+  },
+  "username_text": {
+    "type": "string",
+    "default": ""
+  },
+  "password_text": {
+    "type": "string",
+    "default": ""
+  },
+  "button_text": {
+    "type": "string",
+    "default": ""
+  },
+  "remember_me": {
+    "type": "boolean",
+    "default": true
+  },
+  "lost_password": {
+    "type": "boolean",
+    "default": true
+  },
+  "is_stylised" : {
+    "type": "boolean",
+    "default": true
+  },
+  "fields_border_radius": {
+    "type": "integer",
+    "default": 0
+  },
+  "fields_border_color": {
+    "type": "string",
+    "default": ""
+  },
+  "button_border_radius": {
+    "type": "integer",
+    "default": 0
+  },
+  "font_size": {
+    "type": "string",
+    "default": "16px"
+  },
+  "background_color_value": {
+    "type": "string",
+    "default": ""
+  },
+  "background_gradient_value": {
+    "type": "string",
+    "default": ""
+  },
+  "text_color_value": {
+    "type": "string",
+    "default": ""
+  },
+  "button_style": {
+    "type": "string",
+    "default": "fill"
+  },
+  "block_style": {
+    "type": "string",
+    "default": "vertical"
+  },
+  "button_border_width": {
+    "type": "integer",
+    "default": 0
+  }
+}
